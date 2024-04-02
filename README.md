@@ -51,27 +51,27 @@ dt.predict([[5,6]])
 ```
 
 ## Output:
-Data Head
+### Data Head
 ![image](https://github.com/Jwalamukhi/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/assets/145953628/fe8a1ea0-0487-4ffd-91b6-ceeb46b1d20e)
 
 
-Data Info
+### Data Info
 ![image](https://github.com/Jwalamukhi/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/assets/145953628/370a5b86-4dd7-4e5b-942d-83f7a92c7d3b)
 
 
-Data Head after applying LabelEncoder()
+### Data Head after applying LabelEncoder()
 ![image](https://github.com/Jwalamukhi/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/assets/145953628/a24aba50-b035-40d3-b1b9-e6ea19aefabc)
 
 
-MSE
+### MSE
 
 ![image](https://github.com/Jwalamukhi/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/assets/145953628/1f07032c-3c85-4476-b568-db34ac3b74de)
 
-r2
+### r2
 
 ![image](https://github.com/Jwalamukhi/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/assets/145953628/ee0dc33e-25e4-4f1a-a914-7aa924d6445c)
 
-Data Prediction
+### Data Prediction
 ![image](https://github.com/Jwalamukhi/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/assets/145953628/77225227-d74a-4080-9d53-debe77f2dfff)
 
 
