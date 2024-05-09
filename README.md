@@ -17,12 +17,11 @@ To write a program to implement the Decision Tree Regressor Model for Predicting
 
 
 ## Program:
-```
-/*
-Program to implement the Decision Tree Regressor Model for Predicting the Salary of the Employee.
-Developed by: Jwalamukhi S
-RegisterNumber: 212223040079
+### Program to implement the Decision Tree Regressor Model for Predicting the Salary of the Employee.
+### Developed by: Jwalamukhi S
+### RegisterNumber: 212223040079
 
+```
 import pandas as pd
 data = pd.read_csv("Salary.csv")
 data.head()
@@ -47,19 +46,22 @@ mse
 r2 = metrics.r2_score(y_test,y_pred)
 r2
 dt.predict([[5,6]])
-*/
+
 ```
 
 ## Output:
 ### Data Head
+
 ![image](https://github.com/Jwalamukhi/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/assets/145953628/fe8a1ea0-0487-4ffd-91b6-ceeb46b1d20e)
 
 
 ### Data Info
+
 ![image](https://github.com/Jwalamukhi/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/assets/145953628/370a5b86-4dd7-4e5b-942d-83f7a92c7d3b)
 
 
 ### Data Head after applying LabelEncoder()
+
 ![image](https://github.com/Jwalamukhi/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/assets/145953628/a24aba50-b035-40d3-b1b9-e6ea19aefabc)
 
 
